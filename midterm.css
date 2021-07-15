@@ -1,0 +1,28 @@
+div.background {
+    background-color: black;
+    border: 0px;
+    margin: 0px;
+    padding: 5px;
+    }
+
+div.bio {
+    background-color: black;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    }
+
+div.pics {
+    background-color: black;
+    border: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    }    
+
+element.p1 {
+        font-family: "Lucida Console", "Courier New", monospace;
+        }    
+
+element.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    }
